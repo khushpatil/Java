@@ -1,3 +1,5 @@
+package first_project;
+
 import java.util.Scanner;
 
 public class Temp {
